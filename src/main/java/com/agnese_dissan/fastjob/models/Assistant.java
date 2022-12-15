@@ -1,4 +1,4 @@
 package com.agnese_dissan.fastjob.models;
 
-public abstract class User {
+public class Assistant extends User{
 }
